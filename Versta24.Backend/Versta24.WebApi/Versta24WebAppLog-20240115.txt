@@ -1,0 +1,62 @@
+2024-01-15 04:56:13.173 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-01-15 04:56:13.263 +03:00 [INF] Now listening on: http://localhost:5149
+2024-01-15 04:56:13.264 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-15 04:56:13.264 +03:00 [INF] Hosting environment: Development
+2024-01-15 04:56:13.264 +03:00 [INF] Content root path: C:\Users\the13\source\repos\Versta24\Versta24.Backend\Versta24.WebApi
+2024-01-15 04:57:06.804 +03:00 [INF] Application is shutting down...
+2024-01-15 04:58:49.634 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-01-15 04:58:49.726 +03:00 [INF] Now listening on: http://localhost:5149
+2024-01-15 04:58:49.726 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-15 04:58:49.727 +03:00 [INF] Hosting environment: Development
+2024-01-15 04:58:49.727 +03:00 [INF] Content root path: C:\Users\the13\source\repos\Versta24\Versta24.Backend\Versta24.WebApi
+2024-01-15 05:02:04.703 +03:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-01-15 05:02:04.801 +03:00 [INF] Now listening on: http://localhost:5149
+2024-01-15 05:02:04.802 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-15 05:02:04.802 +03:00 [INF] Hosting environment: Development
+2024-01-15 05:02:04.802 +03:00 [INF] Content root path: C:\Users\the13\source\repos\Versta24\Versta24.Backend\Versta24.WebApi
+2024-01-15 05:02:47.219 +03:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-01-15 05:02:47.324 +03:00 [INF] Now listening on: http://localhost:5149
+2024-01-15 05:02:47.325 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-15 05:02:47.325 +03:00 [INF] Hosting environment: Development
+2024-01-15 05:02:47.325 +03:00 [INF] Content root path: C:\Users\the13\source\repos\Versta24\Versta24.Backend\Versta24.WebApi
+2024-01-15 05:03:20.344 +03:00 [INF] Application is shutting down...
+2024-01-15 05:03:31.042 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-01-15 05:03:31.140 +03:00 [INF] Now listening on: http://localhost:5149
+2024-01-15 05:03:31.141 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-15 05:03:31.141 +03:00 [INF] Hosting environment: Development
+2024-01-15 05:03:31.141 +03:00 [INF] Content root path: C:\Users\the13\source\repos\Versta24\Versta24.Backend\Versta24.WebApi
+2024-01-15 05:03:37.480 +03:00 [INF] Application is shutting down...
+2024-01-15 05:04:27.319 +03:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-01-15 05:04:27.539 +03:00 [INF] Now listening on: https://localhost:7018
+2024-01-15 05:04:27.539 +03:00 [INF] Now listening on: http://localhost:5149
+2024-01-15 05:04:27.540 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-15 05:04:27.540 +03:00 [INF] Hosting environment: Development
+2024-01-15 05:04:27.541 +03:00 [INF] Content root path: C:\Users\the13\source\repos\Versta24\Versta24.Backend\Versta24.WebApi
+2024-01-15 05:04:28.144 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/ - null null
+2024-01-15 05:04:28.255 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/ - 301 0 null 112.1073ms
+2024-01-15 05:04:28.260 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/index.html - null null
+2024-01-15 05:04:28.315 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/index.html - 200 null text/html;charset=utf-8 54.8957ms
+2024-01-15 05:04:28.355 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/swagger-ui.css - null null
+2024-01-15 05:04:28.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/swagger-ui-standalone-preset.js - null null
+2024-01-15 05:04:28.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/swagger-ui-bundle.js - null null
+2024-01-15 05:04:28.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/_framework/aspnetcore-browser-refresh.js - null null
+2024-01-15 05:04:28.360 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 3.046ms
+2024-01-15 05:04:28.366 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/_vs/browserLink - null null
+2024-01-15 05:04:28.372 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-15 05:04:28.372 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-15 05:04:28.373 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/swagger-ui-standalone-preset.js - 200 312163 text/javascript 16.3863ms
+2024-01-15 05:04:28.373 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/swagger-ui.css - 200 144929 text/css 17.7518ms
+2024-01-15 05:04:28.378 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-15 05:04:28.379 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/swagger-ui-bundle.js - 200 1061536 text/javascript 22.0199ms
+2024-01-15 05:04:28.419 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.5338ms
+2024-01-15 05:04:29.369 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/swagger/v1/swagger.json - null null
+2024-01-15 05:04:29.411 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/favicon-32x32.png - null null
+2024-01-15 05:04:29.412 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-01-15 05:04:29.412 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/favicon-32x32.png - 200 628 image/png 0.6014ms
+2024-01-15 05:04:29.450 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.284ms
